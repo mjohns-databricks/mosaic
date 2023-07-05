@@ -1,5 +1,6 @@
 ## v0.3.12
 - Make JTS default Geometry Provider
+- Add Performance Tuning section to Mosaic Docs
 
 ## v0.3.11
 - Update the CONTRIBUTING.md to follow the standard process.
